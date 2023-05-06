@@ -1,4 +1,4 @@
-# flutter_application_1
+# responsive admin panel
 
 A new Flutter project.
 
